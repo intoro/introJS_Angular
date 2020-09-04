@@ -1,0 +1,33 @@
+.button_div{
+    padding:17px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 6%;
+    color: cornsilk;
+}
+
+  
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .stickToBottom {
+    width: '100%';
+    position: 'fixed';
+    bottom: 0;
+  }
+
+  .main_div{
+      height: 600px;
+  }
+
+  .example-card {
+    max-width: 400px;
+    margin-left: 21px;
+
+  }
+  
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}

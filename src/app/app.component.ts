@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'introJSdemo';
+
+  cards = ['card 1', 'card 2', 'card 3'];
 }
